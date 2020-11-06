@@ -1,6 +1,8 @@
 import { useState, useEffect } from 'react'
 import Category from './Category';
 
+import bender from "./Bender.jpg";
+
 import './App.css'
 
 function App() {
@@ -40,7 +42,7 @@ function App() {
     <div className="App">
       <div style = {{display: "flex", flexDirection: "column", alignItems:"center"}}>
         <h1 stlye = {{marginTop: "50px"}}>AI Usage is Everywhere!</h1>
-        <img src = "https://twiki.cern.ch/twiki/pub/LHCb/Bender/bender-for-website.jpg" alt = "bender" width = "150" height = "200"></img>
+        <img src = {bender} alt = "bender" width = "150" height = "200"></img>
         <h3>Click the buttons below to explore how the robots are taking over:</h3>
         <div className = "categoryCont">
           {
