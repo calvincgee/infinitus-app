@@ -46,7 +46,7 @@ function App() {
             ? categories.map(category => (
               <Category key = {category} name = {category} list = {data.filter(obj => obj.category === category)} increase = {increaseClicked} decrease = {decreaseClicked}></Category>
             ))
-            : <div></div>
+            : <div><p>Loading categories...</p></div>
           }
         </div>
         {
