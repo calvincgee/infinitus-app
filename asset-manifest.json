@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/infinitus-app/static/css/main.0b2c5e17.chunk.css",
-    "main.js": "/infinitus-app/static/js/main.00d9f904.chunk.js",
-    "main.js.map": "/infinitus-app/static/js/main.00d9f904.chunk.js.map",
+    "main.css": "/infinitus-app/static/css/main.c095f04b.chunk.css",
+    "main.js": "/infinitus-app/static/js/main.049906f9.chunk.js",
+    "main.js.map": "/infinitus-app/static/js/main.049906f9.chunk.js.map",
     "runtime-main.js": "/infinitus-app/static/js/runtime-main.0090b7e8.js",
     "runtime-main.js.map": "/infinitus-app/static/js/runtime-main.0090b7e8.js.map",
     "static/js/2.22563c23.chunk.js": "/infinitus-app/static/js/2.22563c23.chunk.js",
     "static/js/2.22563c23.chunk.js.map": "/infinitus-app/static/js/2.22563c23.chunk.js.map",
     "index.html": "/infinitus-app/index.html",
-    "static/css/main.0b2c5e17.chunk.css.map": "/infinitus-app/static/css/main.0b2c5e17.chunk.css.map",
+    "static/css/main.c095f04b.chunk.css.map": "/infinitus-app/static/css/main.c095f04b.chunk.css.map",
     "static/js/2.22563c23.chunk.js.LICENSE.txt": "/infinitus-app/static/js/2.22563c23.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0090b7e8.js",
     "static/js/2.22563c23.chunk.js",
-    "static/css/main.0b2c5e17.chunk.css",
-    "static/js/main.00d9f904.chunk.js"
+    "static/css/main.c095f04b.chunk.css",
+    "static/js/main.049906f9.chunk.js"
   ]
 }
