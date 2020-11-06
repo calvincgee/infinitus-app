@@ -51,7 +51,7 @@ function App() {
         </div>
         {
           numClicked > 0
-          ? <div style ={{display:"flex", flexDirection:"row", alignItems:"center"}}><div className = "red box"></div><p style = {{marginLeft:"5px", marginRight:"10px"}}> = enabled</p><div className = "green box"></div><p style = {{marginLeft:"5px"}}> = disabled</p></div>
+          ? <div style ={{display:"flex", flexDirection:"row", alignItems:"center"}}><div className = "green box"></div><p style = {{marginLeft:"5px", marginRight:"10px"}}> = enabled</p><div className = "red box"></div><p style = {{marginLeft:"5px"}}> = disabled</p></div>
           : <div></div>
         }
       </div>

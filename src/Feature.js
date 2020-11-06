@@ -4,7 +4,7 @@ function Feature ( props ) {
 
     return (
         <>
-        <div className = {props.enabled ? "red feature" : "green feature"}>
+        <div className = {props.enabled ? "green feature" : "red feature"}>
             <p>{props.title}</p>
         </div>
         </>
